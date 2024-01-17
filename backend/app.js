@@ -24,5 +24,5 @@ app.get("*", (req, res) => {
 
 module.exports = app;
 
-// const pathname = path.resolve(__dirname, "/build/index.html");
-// console.log(pathname);
+const pathname = path.resolve(__dirname, "/build/index.html");
+console.log(pathname);

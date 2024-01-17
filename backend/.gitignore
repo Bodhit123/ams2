@@ -1,8 +1,7 @@
-# .gitignore
-build
 
 # Ignore node_modules
 node_modules/
 
 # Ignore .env file
 config/.env
+
